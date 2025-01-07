@@ -1,8 +1,12 @@
-package com.example.record;
+package com.midnightsun.javastore.service;
 
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
+
+import com.midnightsun.javastore.exception.RecordNotFoundException;
+import com.midnightsun.javastore.model.Record;
+import com.midnightsun.javastore.repository.RecordRepository;
 
 @Service
 public class RecordService {

@@ -1,9 +1,13 @@
-package com.example.record;
+package com.midnightsun.javastore.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.midnightsun.javastore.exception.RecordNotFoundException;
+import com.midnightsun.javastore.model.Record;
+import com.midnightsun.javastore.service.RecordService;
 
 @RestController
 @RequestMapping("/records")

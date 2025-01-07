@@ -1,6 +1,6 @@
-# record
+# JavaStore
 
-record
+JavaStore
 
 > Java
 > Spring

@@ -1,10 +1,10 @@
-package com.example.record;
+package com.midnightsun.javastore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RecordApplicationTests {
+class JavaStoreApplicationTests {
 
 	@Test
 	void contextLoads() {

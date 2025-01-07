@@ -8,11 +8,11 @@
 		<version>3.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>record</artifactId>
+	<groupId>com.midnightsun</groupId>
+	<artifactId>javastore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>record</name>
-	<description>Demo project for Spring Boot</description>
+	<name>javastore</name>
+	<description>Java Store project written on Spring</description>
 	<url/>
 	<licenses>
 		<license/>
